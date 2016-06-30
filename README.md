@@ -1,7 +1,5 @@
 # Stuff I learned
 
-## Machine Learning
+Wiki is the main page:
 
-[Gibbs Sampling]()
-[Variable Elimination]()
-[EM-algorithm (Expectation-Maximization)]()
+[Wiki](https://github.com/anotherbugmaster/stuff-i-learned/wiki)
